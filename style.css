@@ -16,9 +16,8 @@
     padding: 1rem 2rem;
     background: #333;
     color: #fff;
-    position: relative;
-    top: -32%;
-    width: 100%;
+    position: sticky;
+    top: 0;
     z-index: 1000;
   }
   .logo {
